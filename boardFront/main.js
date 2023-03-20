@@ -148,3 +148,6 @@ const addPost = (title,desc,name,password)=>{
 
 
 init();
+
+
+//test
